@@ -13,7 +13,7 @@ This example demonstrates:
 - Calling a remote HTTP API from inside a `processBlock()` loop.
 - Handling errors gracefully by emitting `NULL` instead of aborting the query.
 
-It's fast as LLM-based AI goes: 1000 text samples in 3 minutes on a single node, or about 200 ms per text sample.
+It's fast as LLM-based AI goes: 1000 text samples in 3 minutes on a single node with 4 cores and 16 GB RAM, or about 200 ms per text sample.
 
 ---
 
