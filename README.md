@@ -15,6 +15,8 @@ This example demonstrates:
 
 It's fast as LLM-based AI goes: 1000 text samples in 3 minutes on a single node with 4 cores and 16 GB RAM, or about 200 ms per text sample.
 
+This example uses Jev AI via Vercel router gateway.  Want to try another typed decision model or train one for your use case?  Check out the decision model dashboard at https://huggingface.co/spaces/multimodalart/jev-decision-index to see what else the community is developing.  
+
 ---
 
 ## How it works
